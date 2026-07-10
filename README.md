@@ -17,9 +17,7 @@
 - **VS Code**: Vá para a pasta "ReactApp1.Server" e rode o comando `dotnet run --launch-profile "http"` para inicializar o projeto utilizando somente o protocolo HTTP. Em caso de interesse pelo protocolo HTTPS, use `dotnet run --launch-profile "https"` *(OBS.: Será necessário atualizar o endpoint apontado pelo frontend para **7286** em "/src/api/base.ts")*.
 
 ### Prévia do design do frontend:
-<img src="./imagens/pessoas.png" width="300">
-<img src="./imagens/transacoes.png" width="300">
+<img src="./imagens/pessoas.png" width="300"> <img src="./imagens/transacoes.png" width="300">
 <img src="./imagens/relatorios.png" width="300">
 
-<img src="./imagens/dialog-nova-pessoa.png" width="300">
-<img src="./imagens/dialog-nova-transacao.png" width="300">
+<img src="./imagens/dialog-nova-pessoa.png" width="300"> <img src="./imagens/dialog-nova-transacao.png" width="300">
